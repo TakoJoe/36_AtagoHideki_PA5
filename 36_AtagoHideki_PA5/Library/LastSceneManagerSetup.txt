@@ -1,0 +1,13 @@
+sceneSetups:
+- path: Assets/Scenes/Gameplay_Level1.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Gameplay_Level2.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Win Screen.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Lose Screen.unity
+  isLoaded: 0
+  isActive: 0
